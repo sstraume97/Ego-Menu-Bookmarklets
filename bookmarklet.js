@@ -1,6 +1,6 @@
 javascript:(function() {
   var scriptElement = document.createElement('script');
-  var sourceUrl = 'https://cdn.jsdelivr.net/gh/yeahbread/Ego-Menu-Bookmarklets/Menu.js';
+  var sourceUrl = 'https://github.com/sstraume97/Ego-Menu-Bookmarklets/blob/dcfe49002741c40245cdfde0bd9c520cf4927158/Menu.js';
   fetch(sourceUrl)
     .then(response => {
       if (!response.ok) {
