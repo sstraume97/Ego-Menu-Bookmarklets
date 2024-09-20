@@ -994,7 +994,7 @@ javascript: (function() {
         <div class="EgoPage" id="EgoPage5">
         <div>Made by yeahbread. <a href="https://yeahbread.github.io/#ego-menu" target="_blank">Project page</a>.</div>
         <div>egomenuhelp@gmail.com</div>
-        <img class="egoCoLogo" src="https://github.com/yeahbread/Ego-Menu-Bookmarklets/blob/main/ego(itterationOne).png?raw=true" alt="ego logo">
+        <img class="egoCoLogo" src="https://github.com/sstraume97/Ego-Menu-Bookmarklets/blob/2a40d5be658dfc7f23d5fa64fde4b5c7843224cf/ego(itterationOne).png?raw=true" alt="ego logo">
   
         </div>
         <div class="EgoPage" id="EgoPage6">
@@ -1518,11 +1518,11 @@ javascript: (function() {
   
   
   
-  
+  //Lenkeråte
     function downloadBlooketGUI() {
       window.open("https://cdn.jsdelivr.net/gh/05Konz/Blooket-Cheats/cheats/Bookmarklets.html", "_blank");
     }
-  
+  //Lenkeråte
   
       
       const blooketHacksButton = document.getElementById("blooketHacksButton");
@@ -1645,7 +1645,7 @@ javascript: (function() {
     window.open("https://playtictactoe.org/", "_blank");
   });
         
-  
+  //Stoppet her 2024-09-20
   
   const amongUsBtn = document.getElementById("egoAmongUsOffline");
   
